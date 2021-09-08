@@ -31,7 +31,7 @@
 
 ---
 
-### Github Stats
+### GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsargentdev)](https://github.com/maxsargentdev/github-readme-stats)
+[![Max Sargent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsargentdev)](https://github.com/maxsargentdev/github-readme-stats) ![Max Sargent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsargentdev&count_private=true)
 
