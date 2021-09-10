@@ -1,4 +1,6 @@
-# Hi there, my name is Max Sargent & I am a DevOps Engineer 👋
+![alt text](https://github.com/maxsargentdev/maxsargentdev/blob/main/MaxSargentBanner.png?raw=true)
+
+---
 
 ### Me
 
