@@ -1,4 +1,4 @@
-![alt text](https://github.com/maxsargentdev/maxsargentdev/blob/main/MaxSargentBanner.png?raw=true)
+![alt text](https://github.com/maxsargentdev/maxsargentdev/blob/main/MaxSargentBanner2.png?raw=true)
 
 ---
 
