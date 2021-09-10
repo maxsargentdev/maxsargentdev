@@ -33,7 +33,13 @@
 
 ---
 
-### GitHub
-
-[![Max Sargent's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsargentdev)](https://github.com/maxsargentdev/github-readme-stats) ![Max Sargent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxsargentdev&count_private=true)
-
+<!-- <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsargentdev">
+</a> -->
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=maxsargentdev">
+</p>
+<!-- <a href="">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=maxsargentdev&count_private=true>
+</a>
+ -->
