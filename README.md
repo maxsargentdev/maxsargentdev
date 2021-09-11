@@ -5,7 +5,7 @@
 ### Me
 
 - 🔭 I’m currently working on a greenfield project at Verint Systems.
-- 🌱 I’m currently learning how to code in Golang and the Hashicorp stack.
+- 🌱 I’m currently learning Golang and the Hashicorp stack.
 - 💬 Ask me about improving and streamlining software development practices.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/max-sargent-706565169/).
 
