@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Golang and the Hashicorp stack.
 - 💬 Ask me about improving and streamlining software development practices.
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/max-sargent-706565169/).
+- :chart_with_upwards_trend: Aspiring 'Hands-on' Solution Architect
 
 ---
 
