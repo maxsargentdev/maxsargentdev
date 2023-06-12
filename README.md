@@ -31,6 +31,7 @@
 
 #### On the Horizon
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=rust&logoColor=white&color=blue)
 
 ---
 
