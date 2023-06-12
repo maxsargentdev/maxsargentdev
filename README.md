@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Vault-informational?style=flat&logo=vault&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=yellow)
 
 #### On the Horizon
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google&logoColor=white&color=blue)
